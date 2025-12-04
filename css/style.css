@@ -42,3 +42,41 @@ object-fit: cover;
     z-index:0;
 
 }
+.mainnav {
+    color: #592222;
+    width: 1280px;
+height: 60px;
+    background: #D9CEC1;
+    text-align: right;
+    line-height: 60px;
+    position: absolute;
+    top: 0;
+    z-index: 10;
+    position: sticky;
+
+ 
+
+
+
+}
+    nav a {
+
+    color: #592222;
+
+    font-family: "Futura 100";
+    font-size: 20px; 
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+      
+        text-decoration:none;
+        margin: 20px;
+    }
+
+    .logo
+{
+height: 61px;
+position: absolute;
+top: 0;
+left: 5px;
+}
