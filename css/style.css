@@ -82,6 +82,13 @@ left: 5px;
 }
 .headerwelcome{
 margin-top:  40px;
+color: #592222;
+text-align: center;
+font-family: "Dejanire Headline";
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
 }
 
 .backgroundwelcome
@@ -103,4 +110,17 @@ height: 772px;
  {
     float: left;
     
+ }
+ .paragraph1welcome
+ {
+    color: #262116;
+width: 455px;
+height: 84px;
+font-family: "Trade Gothic Next SR Pro";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+float: left;
+margin-left: 100px;
  }
