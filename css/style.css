@@ -173,7 +173,7 @@ margin-top: -4.5px;
  .backgroundwelcome2
  {
     background-image: url(../images/Beginningsketch.png);
-width: 645px;
+width: 640px;
 height: 772px;
  float: left;
     margin-left: 640px;
@@ -181,7 +181,7 @@ height: 772px;
  }
 
  .beginparagraph{
-    margin-top: 30px;
+    margin-top: -6px;
     color: #262116;
 width: 455px;
 height: 84px;
@@ -204,7 +204,149 @@ font-weight: 700;
 line-height: normal;
 float: left;
 text-align: center;
-margin-left: 100px;
+margin-left: 200px;
 margin-top: 100px;
  }
  
+ .leftartofcoffee
+ {
+    margin-top: -4px;
+    background-image: url(../images/artcoffee.jpg);
+    width: 640px;
+height: 772px;
+ }
+
+.rightartofcoffee
+{
+    background-image: url(../images/rightartcoffee.jpg);
+    width: 640px;
+height: 772px;
+  margin-left: 640px;
+    margin-top: -772px;
+}
+ .headerart
+ {
+color: #592222;
+text-align: center;
+font-family: "Dejanire Headline";
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+float: left;
+text-align: center;
+margin-left: 170px;
+margin-top: 100px;
+
+ }
+
+ .artparagraph{
+    
+    color: #262116;
+width: 455px;
+height: 84px;
+font-family: "Trade Gothic Next SR Pro";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+float: left;
+margin-left: 100px;
+ }
+ .leftcontactlocation
+ {
+    width: 640px;
+height: 772px;
+ }
+ .rightcontactlocation
+ {
+    background-image: url(../images/rightbackgroundvisit.jpg);
+    width: 640px;
+height: 772px;
+  margin-left: 640px;
+    margin-top: -776px;
+ }
+
+ .headercontactlocation
+ {
+    color: #592222;
+text-align: center;
+font-family: "Dejanire Headline";
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+float: left;
+text-align: center;
+margin-left: 240px;
+margin-top: 100px;
+ }
+
+ .map
+{
+    width: 416px;
+height: 280px;
+margin-left: 100px;
+margin-top: -10px;
+}
+
+.contact
+{
+    color: #592222;
+font-family: "Dejanire Headline";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left:59px ;
+
+}
+
+.contactinfo
+{
+    color: #000;
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+float: left;
+margin-left: 59px;
+margin-top: -20px;
+}
+.hours
+{
+    color: #592222;
+font-family: "Dejanire Headline";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left:120px ;
+float: left;
+margin-top: -66px;
+
+}
+.hoursinfo
+{
+     color: #000;
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+float: left;
+margin-left: 95px;
+margin-top: -20px;
+}
+.location{
+    color: #592222;
+font-family: "Dejanire Headline";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+float: left;
+}
