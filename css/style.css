@@ -163,14 +163,21 @@ margin-left: 100px;
 
  }
 
+.beginningleftphoto
+ {
+width: 640px;
+height: 772px;
+margin-top: -4.5px;
+
+ }
  .backgroundwelcome2
  {
     background-image: url(../images/Beginningsketch.png);
 width: 645px;
 height: 772px;
  float: left;
-    margin-left: 650px;
-    margin-top: -760px;
+    margin-left: 640px;
+    margin-top: -776px;
  }
 
  .beginparagraph{
