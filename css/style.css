@@ -278,7 +278,7 @@ font-weight: 700;
 line-height: normal;
 float: left;
 text-align: center;
-margin-left: 240px;
+margin-left: 260px;
 margin-top: 100px;
  }
 
@@ -286,7 +286,7 @@ margin-top: 100px;
 {
     width: 416px;
 height: 280px;
-margin-left: 100px;
+margin-left: 120px;
 margin-top: -10px;
 }
 
@@ -298,7 +298,7 @@ font-size: 30px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-margin-left:59px ;
+margin-left:65px ;
 
 }
 
@@ -314,6 +314,7 @@ line-height: normal;
 float: left;
 margin-left: 59px;
 margin-top: -20px;
+text-align: center;
 }
 .hours
 {
@@ -323,7 +324,7 @@ font-size: 30px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-margin-left:120px ;
+margin-left:135px ;
 float: left;
 margin-top: -66px;
 
@@ -338,7 +339,7 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 float: left;
-margin-left: 95px;
+margin-left: 110px;
 margin-top: -20px;
 }
 .location{
@@ -349,4 +350,44 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 float: left;
+margin-left: 75px;
+margin-top: -65px;
+}
+.locationinfo{
+    color: #000;
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+float: left;
+margin-left: 85px;
+margin-top: -21px;
+}
+.marketing
+{
+    
+ color: #592222;
+font-family: "Dejanire Headline";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+float: left;
+text-align:center;
+margin-left:210px ;
+}
+.marketinginfo
+{
+    color: #000;
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+float: left;
+margin-left:210px ;
+margin-top: -20px;
 }
