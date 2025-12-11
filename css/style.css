@@ -107,7 +107,7 @@ margin-top: 100px;
  {
 
    
-    background-image: url(../images/welcomebackground.jpg);
+    background-image: url(../images/welcomebackgroundleft.svg);
 
 width: 640px;
 height: 772px;
@@ -172,7 +172,7 @@ margin-top: -4.5px;
  }
  .backgroundwelcome2
  {
-    background-image: url(../images/Beginningsketch.png);
+    background-image: url(../images/Beginningsketch.svg);
 width: 640px;
 height: 772px;
  float: left;
@@ -211,7 +211,7 @@ margin-top: 100px;
  .leftartofcoffee
  {
     margin-top: -4px;
-    background-image: url(../images/artcoffee.jpg);
+    background-image: url(../images/Leftartcoffee.svg);
     width: 640px;
 height: 772px;
  }
@@ -486,4 +486,68 @@ font-style: normal;
 font-weight: 190;
 line-height: normal;
 margin-left: 800px;
+}
+
+.latte
+{
+    background-image: url(../images/latte.jpg);
+    width: 212px;
+height: 335px;
+margin-left: 35px;
+float: left;
+}
+.classiclatte
+{
+    color: #262116;
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 8px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-top: 67px;
+}
+.lattetext
+{
+    
+    color: #262116;
+text-align: center;
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 210;
+line-height: normal;
+margin-top: -10px;
+
+}
+.mocha
+{
+     background-image: url(../images/mocha.jpg);
+    width: 212px;
+height: 335px;
+float: left;
+margin-left: 38px;
+
+}
+.description{
+    color: #D9CEC1;
+
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 8px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 250px;
+}
+.price
+{
+    color: #D9CEC1;
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
 }
