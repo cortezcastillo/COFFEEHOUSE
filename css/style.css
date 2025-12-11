@@ -391,3 +391,99 @@ float: left;
 margin-left:210px ;
 margin-top: -20px;
 }
+
+.matchapromo
+{
+    background-image: url(../images/matchapromo.jpg);
+    width: 1280px;
+height: 732px;
+margin: 0px;
+}
+
+.matchaheader
+{
+    color: #546421;
+font-family: "Benton Modern D";
+font-size: 200px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-top:0px;
+padding-top: 150px;
+
+text-align: center;
+}
+
+.newarrivalpromo{
+    color: #645C21;
+
+font-family: "Benton Modern D";
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-top: -220px;
+}
+.clickhere
+{
+    color: #262116;
+
+text-align: center;
+font-family: "Benton Modern D";
+font-size: 20px;
+font-style: normal;
+font-weight: 210;
+line-height: normal;
+margin-top: 150px;
+}
+.backgroundmenu
+{
+    background-image: url(../images/MENUbackground.jpg);
+    width: 1280px;
+height:830px;
+}
+.cina
+{
+    margin-left: 400px;
+    margin-top: 120px;
+}
+.hotcoffee{
+    margin-left: 65px;
+}
+.icedcoffee{
+    margin-left: 90px;
+}
+.bakery
+{
+
+
+color: #D9CEC1;
+
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+margin-left: 440px;
+}
+.middlecoffee{
+    color: #D9CEC1;
+margin-top: -45px;
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+margin-left: 25px;
+}
+.colddrink{
+    color: #D9CEC1;
+margin-top: -45px;
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+margin-left: 800px;
+}
