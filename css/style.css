@@ -448,7 +448,7 @@ height:830px;
     margin-top: 120px;
 }
 .hotcoffee{
-    margin-left: 65px;
+    margin-left: 50px;
 }
 .icedcoffee{
     margin-left: 90px;
@@ -475,7 +475,7 @@ font-style: normal;
 font-weight: 190;
 line-height: normal;
 text-align: center;
-margin-left: 25px;
+
 }
 .colddrink{
     color: #D9CEC1;
@@ -485,7 +485,7 @@ font-size: 20px;
 font-style: normal;
 font-weight: 190;
 line-height: normal;
-margin-left: 800px;
+margin-left: 788px;
 }
 
 .latte
@@ -619,7 +619,32 @@ text-align: center;
 align-content: center;
 margin-left: 60px;
 }
-.clickhere1 a:hover::after
+.clickhere1:hover
 {
 color: #225948;
+}
+.ordernowa:hover
+{
+    width: 95px;
+height: 30px;
+   color: #D9CEC1;
+background-color: #262116;
+
+
+}
+.ordernowa
+{
+     width: 95px;
+height: 30px;
+    font-size: 10px;
+    color: #262116;
+   
+
+}
+.hoverlink:hover
+{
+   width: 95px;
+height: 60px;
+   color: #D9CEC1;
+background-color: #262116; 
 }
