@@ -111,7 +111,7 @@ color: #592222;
 text-align: center;
 font-family: "Dejanire Headline";
 font-size: 40px;
-font-style: italic;
+
 font-weight: 700;
 line-height: normal;
 float: left;
@@ -216,7 +216,7 @@ margin-left: 100px;
 text-align: center;
 font-family: "Dejanire Headline";
 font-size: 40px;
-font-style: italic;
+
 font-weight: 700;
 line-height: normal;
 float: left;
@@ -247,7 +247,7 @@ color: #592222;
 text-align: center;
 font-family: "Dejanire Headline";
 font-size: 40px;
-font-style: italic;
+
 font-weight: 700;
 line-height: normal;
 float: left;
@@ -290,7 +290,7 @@ height: 772px;
 text-align: center;
 font-family: "Dejanire Headline";
 font-size: 40px;
-font-style: italic;
+
 font-weight: 700;
 line-height: normal;
 float: left;
@@ -608,7 +608,7 @@ margin-left: 38px;
 .ordernow{
     width: 95px;
 height: 30px;
-background: #D9CEC1;
+background: #262116;
 color: #262116;
 text-align: center;
 font-family: "Mort Modern";
@@ -664,4 +664,346 @@ height: 30px;
 height: 60px;
    color: #D9CEC1;
 background-color: #262116; 
+}
+.coffeepromo{
+    background-image: url(../images/shopBackground.jpg);
+    width: 1280px;
+height: 832px;
+}
+
+.clickherestore{
+  color: #D9CEC1;
+
+text-align: center;
+font-family: "Benton Modern D";
+font-size: 20px;
+font-style: normal;
+font-weight: 210;
+line-height: normal;
+padding-top: 500px;
+
+}
+
+.clickherestore2
+{
+    color: #D9CEC1;
+
+text-align: center;
+font-family: "Benton Modern D";
+font-size: 20px;
+font-style: normal;
+font-weight: 210;
+line-height: normal;
+padding-top: 300px;
+}
+.backgroundstoreoptions
+{
+     background-image: url(../images/shopbackground.svg);
+    width: 1280px;
+height:830px;
+}
+
+.allbags{
+   padding-top:  190px;
+}
+.hibiscus
+{
+    background-image: url(../images/hibiscus.jpg);
+    width: 244px;
+height: 426px;
+margin-left: 6px;
+}
+.blendname{
+    padding-top: 350px;
+  text-align: center;
+  color: #D9CEC1;
+
+text-align: center;
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+}
+.descriptionblend{
+    color: #D9CEC1;
+
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: -15px;
+}
+.ordernow4
+{
+    width: 95px;
+height: 30px;
+background: #262116;
+
+text-align: center;
+font-family: "Mort Modern";
+font-size: 10px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+align-content: center;
+margin-left: 70px;
+float: left;
+
+}
+.ordernowa4
+{
+  width: 95px;
+height: 30px;
+ color: #D9CEC1;
+text-align: center;
+font-family: "Mort Modern";
+font-size: 10px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+align-content: center;
+
+
+}
+.ordernowa4:hover
+{
+      width: 95px;
+height: 60px;
+ color: #ffffff;
+ 
+}
+
+.Robusta{
+  background-image: url(../images/robusta.svg);
+    width: 244px;
+height: 426px;
+float: left;
+margin-left: 90px;
+margin-top: -440px;
+}
+.blendname2{
+    padding-top: 330px;
+  text-align: center;
+  color: #D9CEC1;
+
+text-align: center;
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 190;
+line-height: normal; 
+}
+
+.ordernowrobusta{
+    width: 95px;
+height: 30px;
+background: #262116;
+
+text-align: center;
+font-family: "Mort Modern";
+font-size: 10px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+align-content: center;
+margin-left: 70px;
+float: left;
+}
+
+.ordernowa4busta
+{
+      width: 95px;
+height: 30px;
+ color: #D9CEC1;
+text-align: center;
+font-family: "Mort Modern";
+font-size: 10px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+align-content: center;
+}
+
+.ordernowa4busta:hover
+{
+      width: 95px;
+height: 30px;
+ color: #ffffff;
+text-align: center;
+font-family: "Mort Modern";
+font-size: 10px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+align-content: center;
+}
+.pricerobusta{
+    color: #D9CEC1;
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: -5px;
+}
+.Arabica
+{
+   background-image: url(../images/arabica.svg);
+    width: 244px;
+height: 426px;
+float: left;
+margin-left: 345px;
+margin-top: -440px; 
+}
+.blendname3
+{
+    padding-top: 330px;
+  text-align: center;
+  color: #D9CEC1;
+
+text-align: center;
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 190;
+line-height: normal; 
+}
+.descriptionblend3{
+    color: #D9CEC1;
+
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: -15px;
+}
+.ordernowarabica
+{
+    width: 95px;
+height: 30px;
+background: #262116;
+
+text-align: center;
+font-family: "Mort Modern";
+font-size: 10px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+align-content: center;
+margin-left: 80px;
+float: left;
+}
+.ordernowarabica2{
+     width: 95px;
+height: 30px;
+ color: #D9CEC1;
+margin-left: 20px;
+font-family: "Mort Modern";
+font-size: 10px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+align-content: center;
+}
+.ordernowarabica2:hover{
+     width: 95px;
+height: 30px;
+ color: #ffffff;
+margin-left: 20px;
+font-family: "Mort Modern";
+font-size: 10px;
+font-style: normal;
+font-weight: 190;
+line-height: normal;
+text-align: center;
+align-content: center;
+}
+.Vanilla
+{
+    background-image: url(../images/vanilla.svg);
+    width: 244px;
+height: 426px;
+float: left;
+margin-left: 600px;
+margin-top: -440px; 
+}
+.blendname4
+{
+    padding-top: 330px;
+  text-align: center;
+  color: #D9CEC1;
+
+text-align: center;
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 190;
+line-height: normal; 
+}
+.descriptionblend4
+{
+    color: #D9CEC1;
+
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: -15px;
+}
+.pricevanilla
+{
+     color: #D9CEC1;
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: -5px;
+}
+.flower
+{
+    background-image: url(../images/elderflower.svg);
+    width: 244px;
+height: 426px;
+float: left;
+margin-left: 1025px;
+margin-top: -470px; 
+}
+.blendname5
+{padding-top: 330px;
+  text-align: center;
+  color: #D9CEC1;
+
+text-align: center;
+font-family: "Mort Modern";
+font-size: 20px;
+font-style: normal;
+font-weight: 190;
+line-height: normal; }
+.descriptionblend5{
+     color: #D9CEC1;
+
+text-align: center;
+font-family: "ITC Avant Garde Gothic Pro";
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: -15px;
 }
